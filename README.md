@@ -15,7 +15,7 @@
 
 # Objetivo
 <p>
- Apresentar meu porfólio feito realizado em HTML e CSS
+Praticar ações do Get, Post, Put e Delete
 </p>
 
 # Tecnologias
