@@ -1,5 +1,5 @@
 
-<h1 align="center">Api Rest com Express</h1>
+<h1 align="center">Api Rest básica com Express</h1>
 
 <p align="center"> 
  <a href="#sobre">Sobre</a> •
